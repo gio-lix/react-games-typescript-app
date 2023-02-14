@@ -1,1 +1,0 @@
-# react-games-typescript-app

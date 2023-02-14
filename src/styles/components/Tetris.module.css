@@ -1,0 +1,20 @@
+.tetris {
+    width: 80vw;
+    height: 80vh;
+    overflow: hidden;
+}
+
+.tetris .tetris_box {
+    display: flex;
+    align-items: flex-start;
+    padding: 40px;
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+.tetris .tetris_box aside {
+    width: 100%;
+    max-width: 200px;
+    display: flex;
+    padding: 0 20px;
+}
